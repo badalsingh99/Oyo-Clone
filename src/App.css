@@ -1,0 +1,19 @@
+.slash-line{
+    padding: 0 30px;
+    margin-inline-start: 28px;
+    border-left: 1px solid #979797;
+    transform: skewX(-30deg);
+}
+.slash-container{
+    display: flex;
+    margin: 60px 40px;
+}
+.container{
+    background-image: url("../src/images/background.avif");
+}
+.footer{
+    background-color: #6d787d;
+}
+.header-3{
+    background-color: #282828;
+}
